@@ -8,8 +8,7 @@ This project demonstrates event-driven input handling in Python using pynput. I 
 
 Here we can see any key being pressed into the console , for this example I had typed the following "Here is demonistration of python key"
 
-
-https://imgur.com/a/Qec9h5c
+<img width="280" height="205" alt="maHUvFe" src="https://github.com/user-attachments/assets/0b75c442-b36b-4aa9-b6ae-e2c76055c671" />
 
 It than gets configured into a text file showing exactly what was typed, with new line indiacting each time the User had pressed a 'space' key
 
